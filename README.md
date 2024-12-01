@@ -64,27 +64,27 @@
    ![sudo apt install gedit](https://github.com/user-attachments/assets/e983a2f9-2449-4e86-b96f-738d944e5129)
 
 10. **Создание и редактирование скрипта**  
-   Теперь, используя `gedit`, я создал файл `script.bash`:
-   ```bash
-   gedit script.bash
-   ```
-   ![gedit script bash](https://github.com/user-attachments/assets/1d1cf30c-e477-4bd3-be68-9df43f30c670)
+    Теперь, используя `gedit`, я создал файл `script.bash`:
+    ```bash
+    gedit script.bash
+    ```
+    ![gedit script bash](https://github.com/user-attachments/assets/1d1cf30c-e477-4bd3-be68-9df43f30c670)
 
-   В файле я добавил следующее сообщение:
-   ```bash
-   #!/bin/bash
+    В файле я добавил следующее сообщение:
+    ```bash
+    #!/bin/bash
    
-   echo "Welcome to ITMO University"
-   ```
-   ![gedit con texto](https://github.com/user-attachments/assets/9a3e4f13-e7fa-4e08-a3bb-d7c9961994d7)
+    echo "Welcome to ITMO University"
+    ```
+    ![gedit con texto](https://github.com/user-attachments/assets/9a3e4f13-e7fa-4e08-a3bb-d7c9961994d7)
 
 11. **Запуск скрипта**  
-   Я проверил работу скрипта в терминале, выполнив команду:
-   ```bash
-   bash script.bash
-   ```
-   Сообщение "Welcome to ITMO University" успешно отобразилось в терминале.
-   ![bash script bash](https://github.com/user-attachments/assets/2f7c10c9-0c97-4e85-8e02-3af02caf0140)
+    Я проверил работу скрипта в терминале, выполнив команду:
+    ```bash
+    bash script.bash
+    ```
+    Сообщение "Welcome to ITMO University" успешно отобразилось в терминале.
+    ![bash script bash](https://github.com/user-attachments/assets/2f7c10c9-0c97-4e85-8e02-3af02caf0140)
 
 12. **Добавление изменений в Git**  
    Я использовал команды `git add` и `git commit` для добавления изменений в мой репозиторий:
